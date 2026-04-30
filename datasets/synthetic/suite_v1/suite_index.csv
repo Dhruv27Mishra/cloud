@@ -1,2 +1,0 @@
-scenario_id,seed,jobs,horizon_seconds,base_arrival_rate,trend_strength,season_amp,burst_factor,pressure_feedback,deadline_multiplier,shock_arrival_mult
-scenario_000,7,12,1200,4.200000,0.300000,0.400000,1.800000,0.500000,2.500000,1.700000

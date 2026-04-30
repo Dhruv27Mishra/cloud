@@ -92,8 +92,12 @@ Outputs:
 
 ## Real Datasets
 
-Real dataset acquisition and manifests are under:
-- `../datasets/real/`
-- `../docs/datasets/README_DATASET_SUITE.md`
+Real datasets are not committed in this repository.
 
-Because of provider policies and very large sizes, some traces require manual credentialed steps.
+Use `../scripts/data_suite/download_real_datasets.sh` to prepare local data directories and fetch accessible traces, then run:
+
+- `../scripts/data_suite/prepare_google_task_events_jobs.py`
+- `../scripts/data_suite/prepare_azure_vmtable_jobs.py`
+- `../scripts/data_suite/prepare_alibaba_batch_jobs.py`
+
+For source notes and constraints, see `../docs/datasets/README_DATASET_SUITE.md`.

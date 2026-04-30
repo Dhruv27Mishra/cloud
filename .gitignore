@@ -18,6 +18,10 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+datasets/
+docs/papers/
+main.tex
+references.bib
 datasets/real/alibaba_cluster_2018/raw/
 datasets/real/alibaba_cluster_2018/raw_archives/
 datasets/real/azure_vm_2019/raw/

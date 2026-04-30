@@ -1,0 +1,7 @@
+Hyperparameter,Makespan (s),Energy (J),Cost ($)
+LR=0.001 (base),245,1920,88
+LR=0.0005,260,2025,94
+LR=0.005,255,1980,91
+Gamma=0.95 (base),245,1920,88
+Gamma=0.90,270,2100,98
+Gamma=0.99,252,1950,90

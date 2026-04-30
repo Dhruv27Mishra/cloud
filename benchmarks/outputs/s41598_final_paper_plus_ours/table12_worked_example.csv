@@ -1,0 +1,3 @@
+Task,Option (Resource),ET (s),Cost ($),Energy (J),Tensor impacts (WT/EC/CF),Final decision
+T1,Cloud (1000 MIPS),0.80,0.017,96.0,Low/Low/Medium,Cloud
+T1,Edge (250 MIPS),3.20,0.045,160.0,High/High/Low,--

@@ -1,0 +1,5 @@
+dataset=s25_seed3
+best_algo=deeprm_pg
+composite_score=-24745209.663527
+mean_return=-23.792903
+model_path=/Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_refresh/scale_25_seed_3/models/deeprm_pg/models/deeprm_pg.pt

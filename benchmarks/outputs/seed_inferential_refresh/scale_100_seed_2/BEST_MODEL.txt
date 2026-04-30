@@ -1,0 +1,5 @@
+dataset=s100_seed2
+best_algo=a2c
+composite_score=-23.872301
+mean_return=-23.846894
+model_path=/Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_refresh/scale_100_seed_2/models/a2c/models/a2c_model.zip

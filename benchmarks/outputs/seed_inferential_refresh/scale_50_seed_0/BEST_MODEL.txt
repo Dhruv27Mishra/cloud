@@ -1,0 +1,5 @@
+dataset=s50_seed0
+best_algo=ppo
+composite_score=-27649336.851754
+mean_return=-23.679452
+model_path=/Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_refresh/scale_50_seed_0/models/ppo/models/ppo_model.zip

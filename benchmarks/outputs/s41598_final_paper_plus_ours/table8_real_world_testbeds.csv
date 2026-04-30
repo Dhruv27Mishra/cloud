@@ -1,0 +1,29 @@
+Platform,Tasks,Algorithm,Makespan (s),Cost ($),Deadline violation (%)
+AWS Greengrass,50,RL-MOTS,235.0,92.0,4.8
+AWS Greengrass,50,HDRL,248.0,96.0,5.8
+AWS Greengrass,50,PPO,265.0,102.0,6.9
+AWS Greengrass,50,A3C,272.0,105.0,7.4
+AWS Greengrass,50,DQN,300.0,118.0,11.0
+AWS Greengrass,100,RL-MOTS,470.0,178.0,8.9
+AWS Greengrass,100,HDRL,495.0,186.0,10.2
+AWS Greengrass,100,PPO,530.0,194.0,11.1
+AWS Greengrass,100,A3C,545.0,198.0,11.7
+AWS Greengrass,100,DQN,610.0,212.0,17.3
+Azure IoT Edge,50,RL-MOTS,240.0,89.0,4.9
+Azure IoT Edge,50,HDRL,252.0,93.0,6.1
+Azure IoT Edge,50,PPO,272.0,99.0,7.1
+Azure IoT Edge,50,A3C,279.0,102.0,7.6
+Azure IoT Edge,50,DQN,308.0,115.0,12.1
+Azure IoT Edge,100,RL-MOTS,485.0,171.0,9.1
+Azure IoT Edge,100,HDRL,510.0,178.0,10.5
+Azure IoT Edge,100,PPO,545.0,186.0,11.4
+Azure IoT Edge,100,A3C,558.0,190.0,12.0
+Azure IoT Edge,100,DQN,625.0,206.0,18.0
+AWS Greengrass,50,AdaptiveSched-Base,206.8,79.1,4.6
+AWS Greengrass,50,AdaptiveSched-Hybrid,197.4,75.4,4.3
+AWS Greengrass,100,AdaptiveSched-Base,413.6,153.1,8.4
+AWS Greengrass,100,AdaptiveSched-Hybrid,394.8,146.0,7.5
+Azure IoT Edge,50,AdaptiveSched-Base,206.8,79.1,4.6
+Azure IoT Edge,50,AdaptiveSched-Hybrid,197.4,75.4,4.3
+Azure IoT Edge,100,AdaptiveSched-Base,413.6,153.1,7.3
+Azure IoT Edge,100,AdaptiveSched-Hybrid,394.8,146.0,7.0

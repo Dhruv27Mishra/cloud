@@ -1,0 +1,7 @@
+Best model: performative_rl
+Composite score: -235747018.224657
+Mean return: -1.557638
+Deadline misses: 15.000000
+Mean wait: 4714940258.125000
+Mean energy: 0.215382
+Checkpoint: /Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_proposed/scale_25_seed_4/models/vanilla_pl0p006.pt

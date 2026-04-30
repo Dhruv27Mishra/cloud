@@ -1,0 +1,3 @@
+model,composite_score,mean_return,mean_deadline_misses,mean_wait,mean_energy,is_best,model_path
+performative_rl,-233120770.992610,-1.475591,14.000000,4662415320.125000,0.215382,yes,/Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_proposed/scale_25_seed_3/models/vanilla_pl0p006.pt
+hybrid_role_based_marl,-264469836.488561,-1.655917,15.000000,5289396621.437500,0.215382,no,/Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_proposed/scale_25_seed_3/models/role_pl0p003.pt

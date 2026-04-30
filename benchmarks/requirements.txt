@@ -1,0 +1,6 @@
+gymnasium>=0.29
+numpy>=1.25
+pandas>=2.0
+torch>=2.1
+stable-baselines3>=2.3
+tensorboard>=2.15

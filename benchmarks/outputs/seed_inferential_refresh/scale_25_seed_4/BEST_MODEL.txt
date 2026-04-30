@@ -1,0 +1,5 @@
+dataset=s25_seed4
+best_algo=decima_style
+composite_score=-23.837338
+mean_return=-23.826714
+model_path=/Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_refresh/scale_25_seed_4/models/decima_style/models/decima_style.pt

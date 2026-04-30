@@ -1,0 +1,15 @@
+# Alibaba cluster-trace-v2018 download instructions
+
+Canonical docs:
+- https://github.com/alibaba/clusterdata/tree/master/cluster-trace-v2018
+
+Survey-gated link (official):
+- http://alibabadeveloper.mikecrm.com/BdJtacN
+
+After download, store archives under:
+- `datasets/real/alibaba_cluster_2018/raw_archives/`
+
+Extract into:
+- `datasets/real/alibaba_cluster_2018/raw/`
+
+Then preprocess to the fields needed by your scheduler benchmark.

@@ -1,0 +1,7 @@
+dataset,rank,algo,composite_score,mean_return,mean_deadline_misses,mean_wait,mean_energy,is_best,model_path
+s25_seed1,1,decima_style,-98789504.817559,-23.990936,4.000000,1234868425.200000,0.212469,yes,/Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_refresh/scale_25_seed_1/models/decima_style/models/decima_style.pt
+s25_seed1,2,dqn,-146000267.336509,-24.200171,6.000000,1825002911.571429,0.212469,no,/Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_refresh/scale_25_seed_1/models/dqn/models/dqn_model.zip
+s25_seed1,3,ppo,-180332122.837216,-24.234832,5.000000,2254151126.142857,0.219128,no,/Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_refresh/scale_25_seed_1/models/ppo/models/ppo_model.zip
+s25_seed1,4,deeprm_pg,-297028923.416421,-24.828695,11.000000,3712860998.461538,0.216055,no,/Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_refresh/scale_25_seed_1/models/deeprm_pg/models/deeprm_pg.pt
+s25_seed1,5,a2c,-416802464.249845,-1.544076,14.000000,5210030486.187500,0.215382,no,/Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_refresh/scale_25_seed_1/models/a2c/models/a2c_model.zip
+s25_seed1,6,hybrid_role_based_marl,-427298051.165178,-1.654409,15.000000,5341225300.000000,0.215382,no,/Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_refresh/scale_25_seed_1/models/hybrid_role_based_marl/models/role_pl0p003.pt

@@ -1,0 +1,8 @@
+Tasks,Resources,Algorithm,Makespan (s),Energy (J),Cost ($),Deadline Violation (%),Convergence Episodes (avg)
+1000,256,RL-MOTS,950,7200,340,7.5,~ 18k
+1000,256,HDRL,1080,8200,390,10.3,~ 21k
+1000,256,PPO,1180,8900,410,12.3,~ 22k
+1000,256,A3C,1210,9050,420,12.8,~ 23k
+1000,256,DQN,1250,9600,440,14.1,~ 20k
+1000,256,AdaptiveSched-Base,1095,8050,381,11.9,~ 20k
+1000,256,AdaptiveSched-Hybrid,1035,7750,365,10.8,~ 20k

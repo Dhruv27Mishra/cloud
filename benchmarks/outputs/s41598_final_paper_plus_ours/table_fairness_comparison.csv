@@ -1,0 +1,8 @@
+Algorithm,Fairness Index
+RL-MOTS,0.8200
+HDRL,0.7600
+PPO,0.7400
+A3C,0.7200
+DQN,0.6900
+AdaptiveSched-Base,0.9268
+AdaptiveSched-Hybrid,0.9409

@@ -1,0 +1,18 @@
+# Azure Public Dataset V2 download instructions
+
+Canonical docs:
+- https://github.com/Azure/AzurePublicDataset
+
+Links manifest:
+- https://raw.githubusercontent.com/Azure/AzurePublicDataset/master/AzurePublicDatasetLinksV2.txt
+
+Suggested:
+1. Download a few shards first for validation.
+2. Then batch download all files to `datasets/real/azure_vm_2019/raw/`.
+
+Example:
+
+```bash
+mkdir -p datasets/real/azure_vm_2019/raw
+# parse URLs from AzurePublicDatasetLinksV2.txt and download with aria2c/wget
+```

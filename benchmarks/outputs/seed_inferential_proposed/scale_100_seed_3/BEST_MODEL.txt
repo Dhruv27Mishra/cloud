@@ -1,0 +1,7 @@
+Best model: hybrid_role_based_marl
+Composite score: -468532218.461341
+Mean return: -1.878976
+Deadline misses: 15.000000
+Mean wait: 9370644256.375000
+Mean energy: 0.272291
+Checkpoint: /Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_proposed/scale_100_seed_3/models/role_pl0p003.pt

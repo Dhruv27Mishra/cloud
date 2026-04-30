@@ -1,7 +1,7 @@
 dataset,rank,algo,composite_score,mean_return,mean_deadline_misses,mean_wait,mean_energy,is_best,model_path
-s50_seed0,1,ppo,-27649336.851754,-23.679452,0.000000,345616414.500000,0.246032,yes,/Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_refresh/scale_50_seed_0/models/ppo/models/ppo_model.zip
-s50_seed0,2,decima_style,-84379148.827042,-23.735703,3.000000,1054738999.750000,0.226788,no,/Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_refresh/scale_50_seed_0/models/decima_style/models/decima_style.pt
-s50_seed0,3,dqn,-105576951.951312,-24.060325,2.000000,1319711556.000000,0.219729,no,/Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_refresh/scale_50_seed_0/models/dqn/models/dqn_model.zip
-s50_seed0,4,deeprm_pg,-360920676.104047,-24.865171,9.000000,4511507949.100000,0.217503,no,/Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_refresh/scale_50_seed_0/models/deeprm_pg/models/deeprm_pg.pt
-s50_seed0,5,hybrid_role_based_marl,-483823552.236167,-1.375094,15.000000,6047794066.875000,0.221444,no,/Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_refresh/scale_50_seed_0/models/hybrid_role_based_marl/models/role_pl0p003.pt
-s50_seed0,6,a2c,-530383416.855541,-1.579469,15.000000,6629792372.062500,0.221444,no,/Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_refresh/scale_50_seed_0/models/a2c/models/a2c_model.zip
+s50_seed0,1,ppo,-27649336.851754,-23.679452,0.000000,345616414.500000,0.246032,yes,./benchmarks/outputs/seed_inferential_refresh/scale_50_seed_0/models/ppo/models/ppo_model.zip
+s50_seed0,2,decima_style,-84379148.827042,-23.735703,3.000000,1054738999.750000,0.226788,no,./benchmarks/outputs/seed_inferential_refresh/scale_50_seed_0/models/decima_style/models/decima_style.pt
+s50_seed0,3,dqn,-105576951.951312,-24.060325,2.000000,1319711556.000000,0.219729,no,./benchmarks/outputs/seed_inferential_refresh/scale_50_seed_0/models/dqn/models/dqn_model.zip
+s50_seed0,4,deeprm_pg,-360920676.104047,-24.865171,9.000000,4511507949.100000,0.217503,no,./benchmarks/outputs/seed_inferential_refresh/scale_50_seed_0/models/deeprm_pg/models/deeprm_pg.pt
+s50_seed0,5,hybrid_role_based_marl,-483823552.236167,-1.375094,15.000000,6047794066.875000,0.221444,no,./benchmarks/outputs/seed_inferential_refresh/scale_50_seed_0/models/hybrid_role_based_marl/models/role_pl0p003.pt
+s50_seed0,6,a2c,-530383416.855541,-1.579469,15.000000,6629792372.062500,0.221444,no,./benchmarks/outputs/seed_inferential_refresh/scale_50_seed_0/models/a2c/models/a2c_model.zip

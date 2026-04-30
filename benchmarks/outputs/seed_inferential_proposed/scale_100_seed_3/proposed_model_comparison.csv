@@ -1,3 +1,3 @@
 model,composite_score,mean_return,mean_deadline_misses,mean_wait,mean_energy,is_best,model_path
-hybrid_role_based_marl,-468532218.461341,-1.878976,15.000000,9370644256.375000,0.272291,yes,/Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_proposed/scale_100_seed_3/models/role_pl0p003.pt
-performative_rl,-483348177.764158,-1.978668,14.000000,9666963445.437500,0.272291,no,/Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_proposed/scale_100_seed_3/models/vanilla_pl0p006.pt
+hybrid_role_based_marl,-468532218.461341,-1.878976,15.000000,9370644256.375000,0.272291,yes,./benchmarks/outputs/seed_inferential_proposed/scale_100_seed_3/models/role_pl0p003.pt
+performative_rl,-483348177.764158,-1.978668,14.000000,9666963445.437500,0.272291,no,./benchmarks/outputs/seed_inferential_proposed/scale_100_seed_3/models/vanilla_pl0p006.pt

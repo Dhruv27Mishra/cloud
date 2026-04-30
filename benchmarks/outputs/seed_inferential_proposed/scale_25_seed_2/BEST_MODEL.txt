@@ -4,4 +4,4 @@ Mean return: -1.557607
 Deadline misses: 14.000000
 Mean wait: 5238883456.000000
 Mean energy: 0.215382
-Checkpoint: /Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_proposed/scale_25_seed_2/models/vanilla_pl0p006.pt
+Checkpoint: ./benchmarks/outputs/seed_inferential_proposed/scale_25_seed_2/models/vanilla_pl0p006.pt

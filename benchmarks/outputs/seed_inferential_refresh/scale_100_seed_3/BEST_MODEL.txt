@@ -2,4 +2,4 @@ dataset=s100_seed3
 best_algo=decima_style
 composite_score=-24.107652
 mean_return=-24.095927
-model_path=/Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_refresh/scale_100_seed_3/models/decima_style/models/decima_style.pt
+model_path=./benchmarks/outputs/seed_inferential_refresh/scale_100_seed_3/models/decima_style/models/decima_style.pt

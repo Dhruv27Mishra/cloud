@@ -2,4 +2,4 @@ dataset=s100_seed1
 best_algo=dqn
 composite_score=-170743251.631719
 mean_return=-24.437407
-model_path=/Users/dhruvmishra/Downloads/cloud/benchmarks/outputs/seed_inferential_refresh/scale_100_seed_1/models/dqn/models/dqn_model.zip
+model_path=./benchmarks/outputs/seed_inferential_refresh/scale_100_seed_1/models/dqn/models/dqn_model.zip
